@@ -23,6 +23,6 @@ run your application and setup to host your Netlify Functions. Open up another T
 so you can invoke your netlify function with the command `netlify functions:invoke`.
 You should see the function's output in that Terminal!
 
-# Final Result
+# Starting Point
 
-You can see the finished version on the [finished](https://github.com/maxcell/egghead-lesson-test-netlify-functions/tree/finished) branch
+You can see the beginning version in the [start folder]https://github.com/maxcell/egghead-lessons/tree/master/inv-netlify-functions-locally/start) branch
