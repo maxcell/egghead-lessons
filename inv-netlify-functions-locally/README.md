@@ -25,4 +25,4 @@ You should see the function's output in that Terminal!
 
 # Final Result
 
-You can see the finished version on the [finished](https://github.com/maxcell/egghead-lesson-test-netlify-functions/tree/finished) branch
+You can see the finished version in the [end folder](https://github.com/maxcell/egghead-lessons/tree/master/inv-netlify-functions-locally/end).
